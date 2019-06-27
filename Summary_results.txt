@@ -1,0 +1,37 @@
+Number of Reads:
+R1: 36,582,556
+R2: 36,582,556
+
+Number of Reads after filtering via Trimmomatic:
+R1: 31,835,473
+R2: 31,835,473
+
+Number of contigs via Trinity:
+143,150
+
+Number of contigs after filtering based on low expression via RSEM:
+123,373
+
+Number of translated contigs into ORFS:
+110,852
+Average sequence length(bp): 803.00
+n50: 1,038
+n90: 381
+
+Functional annotation results via EnTAP:
+
+Total length of transcriptome(bp): 89,024,907
+Alignment to Physcomitrella patens: 31,206
+
+Contamination:
+  Total: 11,355(19.42%)
+     amoeba: 55(0.48%)
+     bacteria: 560(4.93%)
+     fungi: 10,575(93.13%)
+     insecta: 165(1.45%)
+     
+Total unique sequences annotated (similarity search alignments only): 2,330
+Total unique sequences annotated (gene family assignment only): 31,202
+Total unique sequences annotated (gene family and/or similarity search): 89,668
+Total unique sequences unannotated (gene family and/or similarity search): 21,184
+Total unique sequences with at least one GO term: 52,452
