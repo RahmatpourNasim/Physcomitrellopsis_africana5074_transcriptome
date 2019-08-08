@@ -6,6 +6,8 @@ Here are the steps in Transcriptome assembly of moss Physcomitrellopsis africana
 4) Filtering contigs based on thier low expression by RSEM 
 5) Translating contigs into ORFS by Transdecoder
 6) Functional annotation by EnTAP
+7) Removing the internal transcripts introduced by Transdecoder and the contaminant ones introduced by EnTAP
+8) Running Busco on the remaining transcripts
 
 ***The summary of each step is shown in Summary_results.txt
 
