@@ -35,3 +35,15 @@ Total unique sequences annotated (gene family assignment only): 31,202
 Total unique sequences annotated (gene family and/or similarity search): 89,668
 Total unique sequences unannotated (gene family and/or similarity search): 21,184
 Total unique sequences with at least one GO term: 52,452
+
+
+Number of Transcripts after internal and contamination removal:
+74,997 
+
+Busco on the ramaining transcripts (74,997):
+        Complete BUSCOs (C)  1135= 82% 
+        Complete and single-copy BUSCOs (S)  644= 46.83% 
+        Complete and duplicated BUSCOs (D)   491= 35.7%
+        Fragmented BUSCOs (F)      85
+        Missing BUSCOs (M) 155
+        Total BUSCO groups searched 1375
